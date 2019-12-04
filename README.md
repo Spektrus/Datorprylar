@@ -1,3 +1,3 @@
 # Datorprylar
 
-Mostly CSS stuff.
+WordPress theme designed for use with WooCommerce 
